@@ -32,11 +32,17 @@
 
 ## Input:
 
+![1](https://github.com/user-attachments/assets/6b71dc06-528a-496d-b551-11c63b6f060c)
+
+
 ### Output:
 
+![Screenshot (45)](https://github.com/user-attachments/assets/f59f3fdc-6c30-4121-9170-21158dce7bc6)
 
-### Name:
-### Register Number:
+
+
+### Name: Kesavan S
+### Register Number: 24003333
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
